@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Charles%20Yamamoto&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20AI%20and%20Automations&descAlignY=58&descSize=18" width="100%" alt="Charles Yamamoto" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Charles%20Yamamoto&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20AI%20and%20Automations&descAlignY=58&descSize=18" width="100%" alt="Charles Yamamoto" />
 
 <a href="https://github.com/Lophiester">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=iOS+Developer+%E2%80%A2+Swift+%26+SwiftUI;I+ship+apps+to+the+App+Store;AI+agents+and+automations+for+businesses;Based+in+Quer%C3%A9taro%2C+Mexico" alt="Typing animation" />
